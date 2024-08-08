@@ -24,6 +24,9 @@
     ispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
     eletrônicos ou de cartões de crédito e débito. 
 
+    Referencia 
+    [Lei nº 12.737/2012]([Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm))
+
 ### Marco Civil da Internet (Lei nº 12.965/14)
     Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
     no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
