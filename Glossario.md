@@ -20,11 +20,15 @@
     Refere-se a algo que está relacionado ou faz parte essencial da natureza ou característica fundamental de algo.
 
 ### Lei Carolina Dieckmann (Lei nº 12.737/2012)
-    Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de dispositivos eletrônicos,
-    a interrupção de serviços digitais ou de conexão, e a falsificação de documentos eletrônicos ou de cartões de crédito e débito. 
+    Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de 
+    ispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
+    eletrônicos ou de cartões de crédito e débito. 
 
 ### Marco Civil da Internet (Lei nº 12.965/14)
-    Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
+    Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
+    no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
 
 ### Lei Geral de Proteção de Dados (Lei nº 13.709/18)
-    Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em relação ao uso de suas informações pessoais.
+    Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto
+    no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
+    relação ao uso de suas informações pessoais.
