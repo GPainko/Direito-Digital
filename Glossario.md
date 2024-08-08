@@ -1,7 +1,10 @@
 # Glossário
 
 ### Lei
-    É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a regular o comportamento dos indivíduos e das instituições em uma sociedade sob pena de sanções. As leis são criadas através de um processo legislativo formal e são aplicadas pelo sistema judicial. 
+    É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, 
+    que tem força obrigatória e é destinada a regular o comportamento dos indivíduos e 
+    das instituições em uma sociedade sob pena de sanções. As leis são criadas através 
+    de um processo legislativo formal e são aplicadas pelo sistema judicial. 
 
 ### Regulamentação
     É o conjunto de regras, leis, normas ou diretrizes estabelecidas por uma autoridade competente para governar ou orientar um determinado assunto, setor, instituição ou atividade. Essas medidas são implementadas para garantir que práticas específicas sejam seguidas, promovendo a segurança, a ordem e o cumprimento de padrões legais e éticos.
