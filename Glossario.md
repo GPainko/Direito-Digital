@@ -19,22 +19,17 @@
 ### Intrinsecamente
     Refere-se a algo que está relacionado ou faz parte essencial da natureza ou característica fundamental de algo.
 
-### Lei Carolina Dieckmann (Lei nº 12.737/2012)
+### Lei Carolina Dieckmann [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
     Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de 
     ispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
     eletrônicos ou de cartões de crédito e débito. 
 
-[Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
-
-### Marco Civil da Internet (Lei nº 12.965/14)
+### Marco Civil da Internet [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
     Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
     no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
     
-[Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
-
-### Lei Geral de Proteção de Dados (Lei nº 13.709/18)
+### Lei Geral de Proteção de Dados [Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
     Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
-    
-[Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+
