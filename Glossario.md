@@ -29,9 +29,12 @@
 ### Marco Civil da Internet (Lei nº 12.965/14)
     Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
     no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
+    
 [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
 
 ### Lei Geral de Proteção de Dados (Lei nº 13.709/18)
     Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
+    
+[Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
