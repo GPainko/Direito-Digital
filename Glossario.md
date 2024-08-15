@@ -21,7 +21,7 @@
 
 ### Lei Carolina Dieckmann [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
     Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de 
-    ispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
+    dispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
     eletrônicos ou de cartões de crédito e débito. 
 
 ### Marco Civil da Internet [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
