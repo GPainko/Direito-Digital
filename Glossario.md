@@ -33,3 +33,6 @@
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
 
+### Privacidade
+    é o direito à reserva de informações pessoais e da própria vida pessoal
+
