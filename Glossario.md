@@ -1,9 +1,9 @@
 # Glossário
 
 ## Sumário
-1. [Lei](##Lei)
-2. [Regulamentação](###Regulamentação)
-3. [Norma](###Norma)
+1. [Lei](#Lei)
+2. [Regulamentação](#Regulamentação)
+3. [Norma](#Norma)
 
 
 ### Lei
