@@ -87,9 +87,9 @@
     criminosas.
 
 ### Direito de igualdade
-    Esse princípio busca garantir que todas as pessoas tenham os mesmos direitos e oportunidades, sem discriminações, e se estende 
-    a diversas áreas da vida social, como o acesso à educação, ao trabalho, à saúde, à justiça, e à proteção contra qualquer forma 
-    de discriminação.
+    Esse princípio busca garantir que todas as pessoas tenham os mesmos direitos e oportunidades, sem discriminações, e se 
+    estende a diversas áreas da vida social, como o acesso à educação, ao trabalho, à saúde, à justiça, e à proteção contra 
+    qualquer forma de discriminação.
 
 ### Direito à segurança
     O direito à segurança é um direito social que obriga o Estado a implementar políticas públicas de segurança para garantir 
