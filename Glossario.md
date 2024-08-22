@@ -6,8 +6,17 @@
 3. [Norma](#Norma)
 4. [Intrinsecamente](#Intrinsecamente)
 5. [Lei Carolina Dieckmann](#LeiCarolinaDieckmann)
-6. 
-
+6. [Marco Civil da Internet](#MarcoCivildaInternet)
+7. [Lei Geral de Proteção de Dados](#LeiGeraldeProteçãodeDados)
+8. [Privacidade](#Privacidade)
+9. [Direito à privacidade](#Direitoàprivacidade)
+10. [Direito de imagem](#Direitodeimagem)
+11. [Direito à honra](#Direitoàhonra)
+12. [Direito anonimato](#Direitoanonimato)
+13. [Direito à informação](#Direitoàinformação)
+14. [Direito ao sigilo](#Direitoaosigilo)
+15. [Direito de igualdade](#Direitodeigualdade)
+16. [Direito à segurança](#Direitoàsegurança)
 
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
@@ -76,6 +85,13 @@
     ser quebrado para evitar que os direitos e garantias fundamentais sejam utilizados para acobertar condutas criminosas.
 
 ### Direito de igualdade
+    Esse princípio busca garantir que todas as pessoas tenham os mesmos direitos e oportunidades, sem discriminações, e se estende 
+    a diversas áreas da vida social, como o acesso à educação, ao trabalho, à saúde, à justiça, e à proteção contra qualquer forma 
+    de discriminação.
 
 ### Direito à segurança
+    O direito à segurança é um direito social que obriga o Estado a implementar políticas públicas de segurança para garantir aos 
+    cidadãos o direito de ir e vir com tranquilidade nos espaços públicos e a defender a sua integridade física e o seu património. 
+    A segurança pública é um direito fundamental e uma condição essencial para o exercício pleno da cidadania, com liberdade, equidade 
+    racial e de género, paz e valorização da vida e do meio ambiente.
 
