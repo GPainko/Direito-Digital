@@ -4,6 +4,9 @@
 1. [Lei](#Lei)
 2. [Regulamentação](#Regulamentação)
 3. [Norma](#Norma)
+4. [Intrinsecamente](#Intrinsecamente)
+5. [Lei Carolina Dieckmann](#LeiCarolinaDieckmann)
+6. 
 
 
 ### Lei
@@ -43,21 +46,34 @@
     é o direito à reserva de informações pessoais e da própria vida pessoal
     
 ### Direito à privacidade
-    O direito à privacidade é um princípio fundamental que protege a liberdade e a autonomia individual das pessoas em relação às
-    suas informações pessoais, suas atividades e suas relações pessoais. Ele se baseia na ideia de que cada indivíduo tem o direito
-    de controlar o acesso, o uso e a divulgação de suas informações privadas.
+    O direito à privacidade é um princípio fundamental que protege a liberdade e a autonomia individual das pessoas em 
+    relação às suas informações pessoais, suas atividades e suas relações pessoais. Ele se baseia na ideia de que cada 
+    indivíduo tem o direito de controlar o acesso, o uso e a divulgação de suas informações privadas.
     
 ### Direito de imagem
-     O direito à imagem é o direito de controlar o uso da própria imagem, autorizando ou proibindo a sua reprodução e divulgação. 
+     O direito à imagem é o direito de controlar o uso da própria imagem, autorizando ou proibindo a sua reprodução e 
+     divulgação. 
 
 ### Direito à honra
-     O direito à honra é o direito à reputação ou consideração social, que abrange a honra externa ou objetiva e a interna ou subjetiva
+     O direito à honra é o direito à reputação ou consideração social, que abrange a honra externa ou objetiva e a interna ou 
+     subjetiva
 
 ### Direito anonimato
+    O direito ao anonimato é um conceito legal que permite que as pessoas expressem suas opiniões, ideias ou realizem certas 
+    atividades sem revelar sua identidade. Esse direito está frequentemente relacionado à liberdade de expressão e ao direito 
+    à privacidade, especialmente em contextos como a internet, protestos, e o jornalismo.
 
 ### Direito à informação
+    O direito à informação é um direito básico do consumidor e um direito constitucional de todos os cidadãos. Este direito visa
+    assegurar que os consumidores possam fazer escolhas conscientes e que as suas expectativas em relação a um produto ou serviço
+    sejam cumpridas. Também permite que os cidadãos obtenham informações dos órgãos públicos que sejam do seu interesse particular,
+    coletivo ou geral. 
 
 ### Direito ao sigilo
+    O direito ao sigilo é um direito fundamental garantido pela Constituição Federal do Brasil que visa proteger a privacidade e a 
+    intimidade dos indivíduos. No entanto, o princípio constitucional da inviolabilidade das comunicações não é absoluto e pode ser 
+    quebrado em situações excepcionais em que o interesse público sobrepõe-se aos direitos individuais. Por exemplo, o sigilo pode 
+    ser quebrado para evitar que os direitos e garantias fundamentais sejam utilizados para acobertar condutas criminosas.
 
 ### Direito de igualdade
 
