@@ -17,6 +17,7 @@
 14. [Direito ao sigilo](#Direitoao-sigilo)
 15. [Direito de igualdade](#Direito-de-igualdade)
 16. [Direito à segurança](#Direito-à-segurança)
+17. [Referencial](#Referencial)
 
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
@@ -37,16 +38,16 @@
 ### Intrinsecamente
     Refere-se a algo que está relacionado ou faz parte essencial da natureza ou característica fundamental de algo.
     
-### Lei Carolina Dieckmann [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
+### Lei Carolina Dieckmann
     Sancionada em 2012 no Brasil. Essa lei foi criada para tratar de crimes cibernéticos, como a invasão de 
     dispositivos eletrônicos, interrupção de serviços digitais ou de conexão, e a falsificação de documentos 
     eletrônicos ou de cartões de crédito e débito. 
     
-### Marco Civil da Internet [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
+### Marco Civil da Internet
     Sancionada em 2014 no Brasil.Estabelece princípios, garantias, direitos e deveres para o uso da internet
     no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes. 
     
-### Lei Geral de Proteção de Dados [Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+### Lei Geral de Proteção de Dados
     Sancionada em 2018 no Brasil. A LGPD regula o tratamento de dados pessoais, tanto no meio digital quanto
     no físico, com o objetivo de proteger a privacidade e os direitos fundamentais dos cidadãos brasileiros em 
     relação ao uso de suas informações pessoais.
@@ -95,3 +96,7 @@
     A segurança pública é um direito fundamental e uma condição essencial para o exercício pleno da cidadania, com liberdade, equidade 
     racial e de género, paz e valorização da vida e do meio ambiente.
 
+# Referencial
+- [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
+- [Lei nº 12.965/14](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
+- [Lei nº 13.709/18](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
