@@ -74,16 +74,17 @@
     à privacidade, especialmente em contextos como a internet, protestos, e o jornalismo.
 
 ### Direito à informação
-    O direito à informação é um direito básico do consumidor e um direito constitucional de todos os cidadãos. Este direito visa
-    assegurar que os consumidores possam fazer escolhas conscientes e que as suas expectativas em relação a um produto ou serviço
-    sejam cumpridas. Também permite que os cidadãos obtenham informações dos órgãos públicos que sejam do seu interesse particular,
-    coletivo ou geral. 
+    O direito à informação é um direito básico do consumidor e um direito constitucional de todos os cidadãos. Este direito 
+    visa assegurar que os consumidores possam fazer escolhas conscientes e que as suas expectativas em relação a um produto 
+    ou serviço sejam cumpridas. Também permite que os cidadãos obtenham informações dos órgãos públicos que sejam do seu 
+    interesse particular,coletivo ou geral. 
 
 ### Direito ao sigilo
-    O direito ao sigilo é um direito fundamental garantido pela Constituição Federal do Brasil que visa proteger a privacidade e a 
-    intimidade dos indivíduos. No entanto, o princípio constitucional da inviolabilidade das comunicações não é absoluto e pode ser 
-    quebrado em situações excepcionais em que o interesse público sobrepõe-se aos direitos individuais. Por exemplo, o sigilo pode 
-    ser quebrado para evitar que os direitos e garantias fundamentais sejam utilizados para acobertar condutas criminosas.
+    O direito ao sigilo é um direito fundamental garantido pela Constituição Federal do Brasil que visa proteger a privacidade 
+    e a intimidade dos indivíduos. No entanto, o princípio constitucional da inviolabilidade das comunicações não é absoluto e 
+    pode ser quebrado em situações excepcionais em que o interesse público sobrepõe-se aos direitos individuais. Por exemplo, o 
+    sigilo pode ser quebrado para evitar que os direitos e garantias fundamentais sejam utilizados para acobertar condutas 
+    criminosas.
 
 ### Direito de igualdade
     Esse princípio busca garantir que todas as pessoas tenham os mesmos direitos e oportunidades, sem discriminações, e se estende 
@@ -91,10 +92,10 @@
     de discriminação.
 
 ### Direito à segurança
-    O direito à segurança é um direito social que obriga o Estado a implementar políticas públicas de segurança para garantir aos 
-    cidadãos o direito de ir e vir com tranquilidade nos espaços públicos e a defender a sua integridade física e o seu património. 
-    A segurança pública é um direito fundamental e uma condição essencial para o exercício pleno da cidadania, com liberdade, equidade 
-    racial e de género, paz e valorização da vida e do meio ambiente.
+    O direito à segurança é um direito social que obriga o Estado a implementar políticas públicas de segurança para garantir 
+    aos cidadãos o direito de ir e vir com tranquilidade nos espaços públicos e a defender a sua integridade física e o seu 
+    património. A segurança pública é um direito fundamental e uma condição essencial para o exercício pleno da cidadania, 
+    com liberdade, equidade racial e de género, paz e valorização da vida e do meio ambiente.
 
 # Referencial
 - [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
