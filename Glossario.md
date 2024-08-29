@@ -19,7 +19,7 @@
 16. [Direito à segurança](#Direito-à-segurança)
 17. [Referencial](#Referencial)
 
-## Detalhes
+## 
 ### Lei
     É uma regra ou prescrição escrita, estabelecida por uma autoridade soberana, que tem força obrigatória e é destinada a 
     regular o comportamento dos indivíduos e das instituições em uma sociedade sob pena de sanções. As leis são criadas 
