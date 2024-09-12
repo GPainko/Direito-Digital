@@ -17,7 +17,7 @@
 14. [Direito ao sigilo](#Direitoao-sigilo)
 15. [Direito de igualdade](#Direito-de-igualdade)
 16. [Direito à segurança](#Direito-à-segurança)
-17. [Compliance em TI](#Complice-em-TI)
+17. [Compliance em TI](#Compliance-em-TI)
 18. [Referencial](#Referencial)
 
 ## 
