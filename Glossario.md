@@ -1,5 +1,7 @@
 # Glossário
 
+palavras e/ou expressões discutidas e aprendidas em aula.
+
 ## Sumário
 1. [Lei](#Lei)
 2. [Regulamentação](#Regulamentação)
