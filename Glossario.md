@@ -100,8 +100,8 @@
     com liberdade, equidade racial e de género, paz e valorização da vida e do meio ambiente.
 
 ### Compliance em TI
-        Compliance em TI refere-se a práticas, políticas e procedimentos que garantem que as operações de tecnologia de uma         
-        organização estejam em conformidade com leis, regulamentos e normas, assegurando segurança, ética e mitigação de riscos.
+    Compliance em TI refere-se a práticas, políticas e procedimentos que garantem que as operações de tecnologia de uma         
+    organização estejam em conformidade com leis, regulamentos e normas, assegurando segurança, ética e mitigação de riscos.
 
 # Referencial
 - [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
