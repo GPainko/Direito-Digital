@@ -102,10 +102,10 @@ palavras e/ou expressões discutidas e aprendidas em aula.
     com liberdade, equidade racial e de género, paz e valorização da vida e do meio ambiente.
 
 ### Compliance em TI
-    Compliance no contexto de Tecnologia da Informação (TI) refere-se ao conjunto de práticas, políticas e procedimentos adotados 
-    por uma organização para garantir que suas operações de TI estejam em conformidade com leis, regulamentos, normas e diretrizes 
-    aplicáveis. O objetivo é assegurar que os sistemas e processos de TI sejam geridos de forma ética e segura, evitando riscos legais, 
-    financeiros e reputacionais.
+    Compliance no contexto de Tecnologia da Informação (TI) refere-se ao conjunto de práticas, políticas e procedimentos 
+    adotados por uma organização para garantir que suas operações de TI estejam em conformidade com leis, regulamentos, 
+    normas e diretrizes  aplicáveis. O objetivo é assegurar que os sistemas e processos de TI sejam geridos de forma ética 
+    e segura, evitando riscos legais, financeiros e reputacionais.
     
 # Referencial
 - [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
