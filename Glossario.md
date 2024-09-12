@@ -17,7 +17,8 @@
 14. [Direito ao sigilo](#Direitoao-sigilo)
 15. [Direito de igualdade](#Direito-de-igualdade)
 16. [Direito à segurança](#Direito-à-segurança)
-17. [Referencial](#Referencial)
+17. [Compliance em TI](#Complice-em-TI)
+18. [Referencial](#Referencial)
 
 ## 
 ### Lei
@@ -97,6 +98,10 @@
     aos cidadãos o direito de ir e vir com tranquilidade nos espaços públicos e a defender a sua integridade física e o seu 
     património. A segurança pública é um direito fundamental e uma condição essencial para o exercício pleno da cidadania, 
     com liberdade, equidade racial e de género, paz e valorização da vida e do meio ambiente.
+
+### Compliance em TI
+        Compliance em TI refere-se a práticas, políticas e procedimentos que garantem que as operações de tecnologia de uma         
+        organização estejam em conformidade com leis, regulamentos e normas, assegurando segurança, ética e mitigação de riscos.
 
 # Referencial
 - [Lei nº 12.737/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
