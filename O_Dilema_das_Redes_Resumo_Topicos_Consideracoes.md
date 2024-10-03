@@ -1,7 +1,7 @@
 
 # O Dilema das Redes - Resumo e Principais Tópicos
 
-## ![Ícone de resumo]([https://exemplo.com/icone-resumo.png](https://www.google.com/imgres?q=icone%20resumo%20png&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1236%2F1236354.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fresumo_1236354&docid=-SkGQr00bagu9M&tbnid=56H8_JMo6S9gWM&vet=12ahUKEwi0_trxrfKIAxVErJUCHSmSKe0QM3oECGEQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwi0_trxrfKIAxVErJUCHSmSKe0QM3oECGEQAA)) Resumo
+## Resumo
 
 "O Dilema das Redes" (título original: *The Social Dilemma*) é um documentário lançado em 2020 na Netflix, que explora o impacto das redes sociais na sociedade. Dirigido por Jeff Orlowski, o filme reúne entrevistas com ex-funcionários de grandes empresas de tecnologia como Facebook, Google, Twitter e Pinterest, além de especialistas em tecnologia e ética.
 
