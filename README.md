@@ -13,3 +13,6 @@ Em seguida, anote expressões/palavras no vocabulário [glossario.md](https://gi
      - Direito ao sigilo
      - Direito de igualdade
      - Direito à segurança
+
+## Atividade 
+- gerar um mapa mental sobre o esquema do quadro
