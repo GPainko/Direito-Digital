@@ -1,5 +1,5 @@
 # 1. **O que é e para que serve uma licença de software?**
-Uma licença de software é um acordo legal que define como o software pode ser utilizado, modificado e redistribuído por terceiros. Ela serve para proteger a propriedade intelectual dos desenvolvedores, estabelecendo permissões, restrições e responsabilidades ao usuário do software, além de esclarecer os direitos de uso e as obrigações de cada parte envolvida no processo de desenvolvimento e uso.
+Uma **licença de software** é um acordo legal que define como o software pode ser utilizado, modificado e redistribuído por terceiros. Ela serve para proteger a propriedade intelectual dos desenvolvedores, estabelecendo permissões, restrições e responsabilidades ao usuário do software, além de esclarecer os direitos de uso e as obrigações de cada parte envolvida no processo de desenvolvimento e uso.
 
 # 2. **Tipos de Software e Licenças:**
    - **Software Proprietário:** É distribuído sob licenças restritivas, onde o código-fonte não é disponibilizado. O uso é limitado e, geralmente, exige pagamento.
